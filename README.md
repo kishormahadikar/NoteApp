@@ -1,6 +1,5 @@
-Simple note app using Flutter and SQL
+Simple note app using Flutter and SQL.
 
-A new Flutter project.
 
 ## Getting Started
 
