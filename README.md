@@ -1,4 +1,4 @@
-# nnnotlol
+Simple note app using Flutter and SQL
 
 A new Flutter project.
 
